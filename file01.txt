@@ -1,3 +1,5 @@
 Pierwsza linia
 dodana druga linia textu
 
+To 4 linia dodana !!!
+

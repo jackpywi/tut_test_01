@@ -1,0 +1,7 @@
+To jest doc txt
+
+--
+  Hello Git
+    Lorem Ipsum ...
+    Aloha
+
